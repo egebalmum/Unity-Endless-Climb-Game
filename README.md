@@ -3,13 +3,6 @@ A casual game made with unity.
 ## Description
 A game where character is bouncy and sticky ball. Purpose is climbing the platforms and running from the saw which slowly follows the character.
 - ![](https://github.com/Pika10/Unity-Endless-Climb-Game/blob/main/ReadmeGifs/GP.gif)
-### Indicator
-Made a smooth indicator that shows where player is going to jump.
-- ![](https://github.com/Pika10/Unity-Endless-Climb-Game/blob/main/ReadmeGifs/Indicator.gif)
-### Platforms
-Platforms can be static or patrolling left-right. Some platforms can go untouchable periodically.
-- ![](https://github.com/Pika10/Unity-Endless-Climb-Game/blob/main/ReadmeGifs/movable.gif)
-- ![](https://github.com/Pika10/Unity-Endless-Climb-Game/blob/main/ReadmeGifs/Blink.gif)
 
 ### Combo Ability
 If player light up 6 platforms quickly, they get a boost bonus.

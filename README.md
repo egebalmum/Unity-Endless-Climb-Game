@@ -9,5 +9,5 @@ Activated when character lights up six platforms in a row.
 - ![](https://github.com/Pika10/Unity-Endless-Climb-Game/blob/main/ReadmeGifs/combo.gif)
 
 ### Optimization
-Whenever player reaches critical levels, game generates more playable environment and player slowly moving away from the origin point. These designs might cause performance issues. To deal with it, game deletes old/unused playable environment and moves the current movable environment to the position of deleted playable environment. As a result, player's distance from origin point and object count in the scene can never be greater then a constant value.
+Whenever player reaches critical levels, game generates more playable environment and player slowly moving away from the origin point. This design might cause performance issues. To deal with it, game deletes old/unused playable environment and moves the current movable environment to the position of deleted playable environment. As a result, player's distance from origin point and object count in the scene can never be greater then a constant value.
 - ![](https://github.com/Pika10/Unity-Endless-Climb-Game/blob/main/ReadmeGifs/Perf.gif)

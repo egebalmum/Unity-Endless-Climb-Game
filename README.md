@@ -5,7 +5,7 @@ A game where character is bouncy and sticky ball tries to run from the saw by cl
 - ![](https://github.com/Pika10/Unity-Endless-Climb-Game/blob/main/ReadmeGifs/GP.gif)
 
 ### Combo Ability
-Activated when character lights up six platforms quickly.
+Activated when character lights up six platforms in a row.
 - ![](https://github.com/Pika10/Unity-Endless-Climb-Game/blob/main/ReadmeGifs/combo.gif)
 
 ### Optimization
